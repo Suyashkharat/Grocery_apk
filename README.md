@@ -1,4 +1,4 @@
-elcome to the Grocery App developed in Kotlin for Android! 🛒📱
+Welcome to the Grocery App developed in Kotlin for Android! 🛒📱
 
 Grocery App
 
