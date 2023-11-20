@@ -25,12 +25,7 @@ Getting Started:
 Prerequisites:
 Android Studio
 Kotlin installed
-Installation:
-Clone the repository: git clone https://github.com/your-username/grocery-app.git
-Open the project in Android Studio.
-Run the app on your Android device or emulator.
-Contribution Guidelines:
-We welcome contributions from the community! Whether you're a seasoned developer or just getting started, check out our Contribution Guidelines to learn how you can contribute to making this Grocery App even better.
+
 
 License:
 This Grocery App is open-source and released under the MIT License. Feel free to use, modify, and distribute the code.
